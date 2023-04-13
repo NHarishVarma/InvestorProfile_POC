@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Cresta:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cresta-Medium:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Azo+Sans:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-cresta: Cresta;
+  --font-azo-sans: "Azo Sans";
+  --font-cresta-medium: Cresta-Medium;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-5xs: 8px;
+  --font-size-9xl: 28px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-aliceblue: #eaf0f7;
+  --color-gray-100: #0a1a27;
+  --color-gray-200: rgba(10, 26, 39, 0.11);
+  --color-gray-300: rgba(255, 255, 255, 0.5);
+  --color-white: #fff;
+  --color-deepskyblue: #38b5e8;
+  --color-gainsboro: #d2dae0;
+  --color-royalblue: #1f61c5;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-81xl: 100px;
+  --br-181xl: 200px;
+}
